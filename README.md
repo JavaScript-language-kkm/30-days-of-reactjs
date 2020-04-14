@@ -43,7 +43,7 @@ Js library / framework for creating user interfaces. It uses components.
 - ES ECMASCRIPT  - regular JavaScript 
 * Most browsers support ES5 but few support ES6 for now, therefore inorder to reap the benefits of ES6 today we have to: 
 -i. transpire our code so that a wide range of browsers can understand our JS
-*** transpire *** convert ES6 to ES5 
+***transpire*** convert ES6 to ES5 
 -ii. include shim/polyfill that provides additonal functionality in ES6 that our browser may or may not have.
 
 **JSX** JavaScript Extension - allows us to write JavaScript that lookslike HTML.
