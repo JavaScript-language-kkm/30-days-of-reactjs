@@ -34,7 +34,7 @@
 
 
 ## what is react?
-Js library / framework for creating user interfaces. It uses components.
+Js library for creating user interfaces. It uses components.
 
 - React handles all changes first in the virtual DOM after which it intelligently identifies which changes to actually make on  the real DOM.
 
